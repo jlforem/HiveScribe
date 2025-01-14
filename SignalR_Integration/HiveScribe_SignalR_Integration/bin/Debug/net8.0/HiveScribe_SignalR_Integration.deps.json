@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "HiveScribe_SignalR_Integration/1.0.0": {
+        "runtime": {
+          "HiveScribe_SignalR_Integration.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "HiveScribe_SignalR_Integration/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
